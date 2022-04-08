@@ -1,0 +1,1 @@
+find -type f -iname *recipe* -a  -iname *peanut*
